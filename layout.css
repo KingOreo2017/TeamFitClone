@@ -54,3 +54,7 @@ HTML, body {
     width: 80%;
     padding: 20px;
 }
+
+.left-aligned {
+    text-align: right;
+}
